@@ -23,4 +23,5 @@ Adding your name to this list is equivalent to completing your first assignment.
 - [Mohammad Rezaei](https://github.com/SR-soheil) 
 - [Mohammad-Mahdi Ghorbani](https://github.com/Gladiatorghorb)
 - [Hossein Bagherai](https://github.com/Hossein1138) :boom:
+- [Reza Zarei](https://github.com/Junior672)
 - [Mohammad Mahdi Dehpahlavan](https://github.com/MahdiDP) :spades:
